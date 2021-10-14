@@ -8,7 +8,7 @@ Alaric Yusaful Ilmi
 - Header 
 
 Akmal Miftahul Huda
-- Body
+- Main Part
 
 Alisya Saffana Poetri
 - Footer
