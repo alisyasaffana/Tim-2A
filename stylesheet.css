@@ -1,5 +1,4 @@
-/* Header */
-/* BEGIN EDITAN Adinda Najwa */
+
 html, body { 
   width: 100%;
   height: auto;
@@ -41,14 +40,7 @@ a {
   font-size: x-large;
   display: none;
 }
-/* End EDITAN Adinda Najwa */
-/* Responsive */
 
-
-
-
-/* Main */
-/* BEGIN Editan Anca */
 
 .main {
   font-family: "Lucida Grande";
@@ -130,11 +122,6 @@ span {
 }
 
 
-
-/* END Editan Anca */
-
-/* Body */
-/* EDITAN AMIN */
 
 #container {
   margin-top: 80px;
@@ -219,7 +206,7 @@ span {
   cursor: pointer;
 }
 
-/* Mulai CSS carousel */
+
 .carousel-wrapper {
   height: 400px;
   position: relative;
@@ -264,7 +251,6 @@ span {
 
 
 
-/*Setiap Slide ada di sini */
 [id^="item"] {
   display: none;
 }
@@ -298,11 +284,7 @@ span {
   z-index: 3;
   opacity: 1;
 }
-/* END EDITAN AMIN */
 
-/* Footer */
-
-/* BEGIN EDITAN Anis Agustiani */
 footer {
   position: relative;
   background-color: rgba(226, 185, 135, 0.912);
@@ -320,6 +302,25 @@ footer {
   bottom: 15px;
   left: 40px;
 }
+/* Tambahan css form alaric */
+.contact-form{
+  padding-top: 100px;
+  
+}
+.contact-form input,textarea {
+  width:400px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:20px;
+  font-size:18px;
+  border:1px solid #dee7ec;
+}
+
+
+.contact-submit {
+  background-color:#dee7ec;
+  color :#889eab;
+}
 .footer-logo {
   font-size: 32px;
   float: left;
@@ -335,11 +336,7 @@ footer li {
   font: lucida grande;
 }
 
-/* END EDITAN Anis Agustiani */
 
-
-/* Animation */
-/* BEGIN EDITAN Annisa Nur Fadhila */
 .header a:hover {
   color: #fff;
 }
@@ -391,4 +388,3 @@ footer li:hover{
   background-color: rgba(255, 255, 255, 0.5);
 }
 
-/* END EDITAN Annisa Nur Fadhila */
