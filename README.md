@@ -5,10 +5,10 @@ Pembagian Tugas :
 
 
 Alaric Yusaful Ilmi
-- Header 
+- Header&body Part
 
 Akmal Miftahul Huda
-- Body
+- Main Part
 
 Alisya Saffana Poetri
 - Footer
