@@ -269,7 +269,7 @@ footer {
   bottom: 15px;
   left: 40px;
 }
-/* Tambahan css form alaric */
+
 .contact-form{
   padding-top: 100px;
   
@@ -308,26 +308,7 @@ footer li {
   color: #fff;
 }
 
-.btn {
-  background-color: #c6a967;
-}
 
-.btn:active {
-  background-color: #c5b358;
-  position: relative;
-  top: 7px;
-  box-shadow: none;
-}
-
-.card button {
-  border-radius: 4px;
-}
-
-.card button:active {
-  background-color: #000;
-  box-shadow: 0 7px #5c5c5c;
-  transform: translateY(5px);
-}
 
 input[type="submit"] {
   border-radius: 4px;
