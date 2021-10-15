@@ -367,8 +367,8 @@ input[type="submit"] {
 }
 
 input[type="submit"]:active {
-  background-color: #45a049;
-  box-shadow: 7px 7px #367c39;
+  background-color: #1684dd;
+  box-shadow: 7px 7px #91bbdd;
   transform: translate3d(2px, 5px, 1px);
 }
 
