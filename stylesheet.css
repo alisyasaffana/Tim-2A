@@ -203,9 +203,11 @@ footer {
   font-size: 32px;
   float: left;
   padding: 30px 40px;
+  color :#ffffff;
 }
 .footer-list {
   float: right;
+  color :#ffffff;
   
 }
 footer li {
